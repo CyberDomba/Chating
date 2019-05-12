@@ -2,6 +2,6 @@
 $ pkg install python2
 $ pkg install curl
 $ pkg install git
-$ git clone https://github.com/rezadkim/dark-room
-$ cd dark-room
-$ python2 chat.py
+$ git clone https://github.com/CyberDomba/Chating
+$ cd Chating
+$ python2 Domba.py
